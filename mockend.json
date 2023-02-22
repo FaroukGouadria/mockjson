@@ -1,0 +1,16 @@
+  {
+  
+  "Post": 
+      [
+          {
+            "id":1 ,
+            "title": "First title",
+            "body": "You can use your own data or have random values generated for you."
+          },
+          {
+            "id": 2 ,
+            "title": "Second title",
+            "body": "The rest of the posts will have random values"
+          }
+      ]
+    }
