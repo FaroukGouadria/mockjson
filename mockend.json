@@ -1,16 +1,19 @@
   {
-  
-  "Post": 
-      [
-          {
-            "id":1 ,
-            "title": "First title",
-            "body": "You can use your own data or have random values generated for you."
-          },
-          {
-            "id": 2 ,
-            "title": "Second title",
-            "body": "The rest of the posts will have random values"
-          }
-      ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
     }
+  ]
+}
